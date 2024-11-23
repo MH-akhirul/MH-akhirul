@@ -1,4 +1,5 @@
-## Hi there 👋 I am Mehedi Hassan (Akhirul)
+## Hi there 👋 
+I am Mehedi Hassan (Akhirul)
 
 # 💫 About Me:
 💻 Working on becoming a full-stack developer.<br>💬 Ask me anything about my projects!<br>📫 How to reach me: akhiruldev@gmail.com<br>💡 I'm really passionate about all sorts of technology, trying to learn and try something new everyday.
